@@ -1,0 +1,5 @@
+NAME="perl-IO-Socket-SSL"
+VERSION=1.76
+RELEASE=1
+CPAN_AUTHOR=sullr
+inherit perl
