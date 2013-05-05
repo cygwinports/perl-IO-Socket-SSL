@@ -1,5 +1,10 @@
-NAME="perl-IO-Socket-SSL"
-VERSION=1.76
-RELEASE=1
 CPAN_AUTHOR=sullr
 inherit perl
+
+NAME="perl-IO-Socket-SSL"
+VERSION=1.88
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="SSL socket support for Perl"
+DESCRIPTION="IO::Socket::SSL is a class implementing an object oriented
+interface to SSL sockets. The class is a descendent of IO::Socket::INET."
