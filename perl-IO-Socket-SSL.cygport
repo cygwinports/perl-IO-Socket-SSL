@@ -2,7 +2,7 @@ CPAN_AUTHOR=sullr
 inherit perl
 
 NAME="perl-IO-Socket-SSL"
-VERSION=1.953
+VERSION=1.997
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="SSL socket support for Perl"
