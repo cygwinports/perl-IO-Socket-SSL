@@ -8,3 +8,10 @@ CATEGORY="Perl"
 SUMMARY="SSL socket support for Perl"
 DESCRIPTION="IO::Socket::SSL is a class implementing an object oriented
 interface to SSL sockets. The class is a descendent of IO::Socket::INET."
+
+PATCH_URI="
+	http://pkgs.fedoraproject.org/cgit/perl-IO-Socket-SSL.git/plain/IO-Socket-SSL-1.997-use-system-default-cipher-list.patch
+	http://pkgs.fedoraproject.org/cgit/perl-IO-Socket-SSL.git/plain/IO-Socket-SSL-1.997-use-system-default-SSL-version.patch
+"
+
+ARCH=noarch
